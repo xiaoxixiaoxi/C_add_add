@@ -1,0 +1,7 @@
+/Users/mac/Downloads/C++test/c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mac/Downloads/C++test/c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mac/Downloads/C++test/c/cmake-build-debug/CMakeFiles/time.dir
+/Users/mac/Downloads/C++test/c/cmake-build-debug/CMakeFiles/struct.dir
+/Users/mac/Downloads/C++test/c/cmake-build-debug/CMakeFiles/test.dir
+/Users/mac/Downloads/C++test/c/cmake-build-debug/CMakeFiles/calss_test.dir
+/Users/mac/Downloads/C++test/c/cmake-build-debug/CMakeFiles/c.dir
